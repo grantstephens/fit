@@ -13,8 +13,8 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/beyoung/fit/cmd/fitgen/internal/profile"
 	"github.com/cespare/xxhash"
-	"github.com/tormoder/fit/cmd/fitgen/internal/profile"
 )
 
 const (

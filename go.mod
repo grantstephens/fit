@@ -1,4 +1,4 @@
-module github.com/tormoder/fit
+module github.com/beyoung/fit
 
 go 1.15
 
@@ -16,6 +16,7 @@ require (
 	github.com/mdempsky/unconvert v0.0.0-20190325185700-2f5dc3378ed3
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
 	github.com/tealeg/xlsx v1.0.3
+	github.com/tormoder/fit v0.10.0
 	golang.org/x/image v0.0.0-20190501045829-6d32002ffd75 // indirect
 	golang.org/x/lint v0.0.0-20190409202823-959b441ac422
 	golang.org/x/tools v0.0.0-20190501045030-23463209683d

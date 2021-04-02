@@ -11,7 +11,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/tormoder/fit/internal/types"
+	"github.com/beyoung/fit/internal/types"
 )
 
 type codeGenerator struct {
