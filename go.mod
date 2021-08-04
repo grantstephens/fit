@@ -1,4 +1,4 @@
-module github.com/beyoung/fit
+module github.com/grantstephens/fit
 
 go 1.15
 
